@@ -1,0 +1,19 @@
+{
+  "name": "dragonscalecss",
+  "version": "1.0.0-alpha.0",
+  "description": "A TailwindCSS inspired css library with support for both css and react native StyleSheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altie122/DragonScaleCSS.git"
+  },
+  "author": "Altie122",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altie122/DragonScaleCSS/issues"
+  },
+  "homepage": "https://github.com/altie122/DragonScaleCSS#readme"
+}
